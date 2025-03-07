@@ -9,6 +9,7 @@
 ### **6. Nginx Yapılandırmasını HTTPS için Güncelleme**
 ### **7. Jenkins'e Erişme**
 ### **8. Ek Bilgiler; Plugin, Folder, Artifact, Workspace**
+
 ---
 
 
